@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAssistant.Web", "CAssistant.Web\CAssistant.Web.csproj", "{2C712060-BA98-46A9-924F-9C05078E2BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAssistant.Web.Tests", "CAssistant.Web.Tests\CAssistant.Web.Tests.csproj", "{1A0FE764-E266-4E22-A806-913528EBA973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C712060-BA98-46A9-924F-9C05078E2BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C712060-BA98-46A9-924F-9C05078E2BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C712060-BA98-46A9-924F-9C05078E2BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C712060-BA98-46A9-924F-9C05078E2BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0FE764-E266-4E22-A806-913528EBA973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0FE764-E266-4E22-A806-913528EBA973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0FE764-E266-4E22-A806-913528EBA973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0FE764-E266-4E22-A806-913528EBA973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
