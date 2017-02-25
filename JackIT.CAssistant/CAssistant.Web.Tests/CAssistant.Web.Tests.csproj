@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{1A0FE764-E266-4E22-A806-913528EBA973}</ProjectGuid>
+    <ProjectGuid>{32279403-DE7F-4C99-897A-20611E6E1F95}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CAssistant.Web.Tests</RootNamespace>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CAssistant.Web\CAssistant.Web.csproj">
-      <Project>{2C712060-BA98-46A9-924F-9C05078E2BEC}</Project>
+      <Project>{C4F8D539-ABAE-433E-A2F4-F3BC6FEAC1EA}</Project>
       <Name>CAssistant.Web</Name>
     </ProjectReference>
   </ItemGroup>
